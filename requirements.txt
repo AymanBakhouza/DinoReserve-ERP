@@ -1,0 +1,5 @@
+# DinoReserve ERP — sólo usa la biblioteca estándar de Python 3.10+
+# Tkinter y SQLite vienen incluidos con CPython.
+# Este archivo se mantiene vacío de dependencias externas a propósito,
+# para garantizar que `python main.py` funcione en cualquier instalación
+# estándar de Python.
