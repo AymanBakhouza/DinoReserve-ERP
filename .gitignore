@@ -11,3 +11,4 @@ env/
 log_parque.txt
 .idea/
 .vscode/
+*.db
