@@ -169,8 +169,8 @@ El diagrama de arquitectura completo está disponible en `/DIAGRAMA DE FLUJO/`.
 **Ayman Bakhouza**
 
 - 🎓 Proyecto Final de Estudios (PFE)
-- 💼 [LinkedIn](https://linkedin.com/in/aymanbakhouza)
-- 📧 Contacto: ayman.bakhouza@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/aymanbakhouza)
+- 📧 Contacto: bk.ayman04@com.com
 - 🐙 [GitHub](https://github.com/AymanBakhouza)
 
 ---
